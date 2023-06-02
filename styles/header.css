@@ -1,0 +1,18 @@
+body {
+  background: #e6e6e7;
+}
+
+h1 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 58px;
+  line-height: 70px;
+  color: #000000;
+  margin-bottom: 33px;
+}
+
+.header {
+  padding: 80px 0 20px;
+  text-align: center;
+}
